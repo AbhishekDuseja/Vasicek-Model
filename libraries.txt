@@ -1,0 +1,2 @@
+Install python
+pandas, matplotlib, numpy, scipy
